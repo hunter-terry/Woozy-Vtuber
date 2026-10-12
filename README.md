@@ -32,7 +32,7 @@ AI-assisted technical art: I specified every requirement, directed each iteratio
 showcase/      v1→v2 comparison video, stills, live-on-stream frame
 docs/          full case study: requirements, iteration, verification
 src/
-  runtime/     Lens Studio controller (WoozyLiveSetup.js)
+  runtime/     controller notes (full 8.7MB runtime ships in checkpoint releases)
   fitting/     Python goggle/droop fitting scripts + JS fitting module
   obs/         Lua stream controls + OBS configuration
 checkpoints/   dated full-project archives ship as GitHub Releases (see below)
