@@ -2,7 +2,7 @@
 
 A webcam-driven slime VTuber character built in Snap Lens Studio, with AI-assisted development under my creative direction. Live in production on my Twitch stream.
 
-<video src="showcase/woozy-v1-vs-v2.mp4" width="400"></video>
+![Woozy version 1](showcase/woozy-v1-still.jpg) ![Woozy version 2](showcase/woozy-v2-still.jpg)
 
 *Version 1 → Version 2: smoother geometry, glossy slime material, cleaner silhouette.*
 
